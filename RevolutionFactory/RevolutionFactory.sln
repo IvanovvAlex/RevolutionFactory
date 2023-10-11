@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevolutionFactory.Domain", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevolutionFactory.Core", "RevolutionFactory.Core\RevolutionFactory.Core.csproj", "{8F3C43C1-2A3B-42CC-968C-EDDD21B86705}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevolutionFactory.Common", "RevolutionFactory.Common\RevolutionFactory.Common.csproj", "{69AE9573-FBCC-47F7-ACE6-B859B550CB23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{8F3C43C1-2A3B-42CC-968C-EDDD21B86705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3C43C1-2A3B-42CC-968C-EDDD21B86705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3C43C1-2A3B-42CC-968C-EDDD21B86705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AE9573-FBCC-47F7-ACE6-B859B550CB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AE9573-FBCC-47F7-ACE6-B859B550CB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AE9573-FBCC-47F7-ACE6-B859B550CB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AE9573-FBCC-47F7-ACE6-B859B550CB23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
