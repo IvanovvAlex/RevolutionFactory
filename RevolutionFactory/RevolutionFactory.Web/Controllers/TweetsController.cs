@@ -12,7 +12,7 @@ namespace RevolutionFactory.Web.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            await _tweetService.GetTweetsWithUrlsFromAPI("AlexIvanovv4");
+            await _tweetService.GetTweetsWithUrlsFromAPI("CNN");
 
             return View();
         }
